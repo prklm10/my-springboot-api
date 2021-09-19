@@ -4,17 +4,12 @@
  Technology used:- Java SpringBoot, H2 database
 
 ```
-
-
 # To check documentation visit
 
 ```
 localhost:8080/v3/api-docs
 
 ```
-
-
-
 
 # For HAL explorer visit
 ``` 
